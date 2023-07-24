@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Jaidka</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishjaidka&label=Profile%20views&color=0e75b6&style=flat" alt="anishjaidka" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0NWUEI3MWcxVDJ1bHJaZEU2VFE4UUUzMEdCQXxBQ3Jtc0tuRE9QSWtrMThtLVA2dm1FLXhrUU90UER5LUY5cHV3ZGhGV1hOOTVONEdkVnA2aXpCXzJMcGhjaWhrZHV5SnBJMTVDQllFRmZTa2FSbTYyZ2NkUTBSS2NBSzVuM3ozN2Z3Z0tfQzlpNVpjYUFIV2dGTQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
